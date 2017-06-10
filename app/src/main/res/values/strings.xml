@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application Berat Badan</string>
+    <string name="title_activity_normal">NormalActivity</string>
+    <string name="title_activity_ideal">IdealActivity</string>
+</resources>
